@@ -1,0 +1,34 @@
+# depslib dependency file v1.0
+1381070636 source:/home/parth/Documents/ush/main.c
+	"common.h"
+
+1317139457 source:/home/parth/Documents/ush/parse.c
+	<stdio.h>
+	<stdlib.h>
+	<errno.h>
+	<string.h>
+	<assert.h>
+	"parse.h"
+
+1315840058 /home/parth/Documents/ush/parse.h
+
+1381066366 /home/parth/Documents/ush/common.h
+	<stdio.h>
+	<stdlib.h>
+	<unistd.h>
+	<fcntl.h>
+	<sys/types.h>
+	<sys/stat.h>
+	<sys/wait.h>
+	<limits.h>
+	<errno.h>
+	<string.h>
+	<signal.h>
+	"parse.h"
+
+1381070029 source:/home/parth/Documents/ush/pipeproc.c
+	"common.h"
+
+1380448037 source:/home/parth/Documents/ush/cmdproc.c
+	"common.h"
+
