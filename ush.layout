@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<ActiveTarget name="Debug" />
+	<File name="common.h" open="1" top="0" tabpos="1">
+		<Cursor position="717" topLine="27" />
+	</File>
+	<File name="main.c" open="1" top="1" tabpos="3">
+		<Cursor position="2080" topLine="91" />
+	</File>
+	<File name="parse.h" open="1" top="0" tabpos="2">
+		<Cursor position="1184" topLine="29" />
+	</File>
+	<File name="pipeproc.c" open="0" top="0" tabpos="1">
+		<Cursor position="9432" topLine="331" />
+	</File>
+</CodeBlocks_layout_file>
